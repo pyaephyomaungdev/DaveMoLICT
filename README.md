@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @DaveMoLICT
-- 👀 I’m interested in java and kotlin
-- 🌱 I’m currently learning flutter
 - 📫 How to reach me dave@molmyanmar.org
 
 <!---
